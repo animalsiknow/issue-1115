@@ -4,4 +4,8 @@ version = "0.1.0"
 authors = ["Simon Génier <1782845+animalsiknow@users.noreply.github.com>"]
 edition = "2018"
 
-[dependencies]
+[dependencies.failure]
+version = "0.1.5"
+
+[dependencies.openssl]
+version = "0.10.22"
